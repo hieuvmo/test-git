@@ -1,10 +1,10 @@
 import "./App.css";
-import Test1 from "./Test1";
+import Commit1 from "./Commit1";
 
 function App() {
   return (
     <>
-      <Test1 />
+      <Commit1 />
     </>
   );
 }
